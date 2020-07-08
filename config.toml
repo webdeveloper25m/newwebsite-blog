@@ -2,7 +2,7 @@ baseURL = "http://example.com/"
 languageCode = "en-us"
 title = "Megam Solutions for Your Business Digital Transformation"
 featured_image='/images/landing-page.jpg'
-theme="blog"
+theme="ananke"
 
 
 [taxonomies]
